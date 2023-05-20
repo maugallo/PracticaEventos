@@ -1,0 +1,7 @@
+﻿.txtNombre{
+    margin-bottom: 50px;
+}
+
+.hover-underline:hover{
+    text-decoration: underline;
+}
