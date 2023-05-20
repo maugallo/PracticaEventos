@@ -1,0 +1,8 @@
+C:\Users\mauga\Dropbox\2023\.NET\4 -  Eventos\PracticaEventos\Domain\bin\Debug\Domain.exe.config
+C:\Users\mauga\Dropbox\2023\.NET\4 -  Eventos\PracticaEventos\Domain\bin\Debug\Domain.exe
+C:\Users\mauga\Dropbox\2023\.NET\4 -  Eventos\PracticaEventos\Domain\bin\Debug\Domain.pdb
+C:\Users\mauga\Dropbox\2023\.NET\4 -  Eventos\PracticaEventos\Domain\obj\Debug\Domain.csproj.AssemblyReference.cache
+C:\Users\mauga\Dropbox\2023\.NET\4 -  Eventos\PracticaEventos\Domain\obj\Debug\Domain.csproj.SuggestedBindingRedirects.cache
+C:\Users\mauga\Dropbox\2023\.NET\4 -  Eventos\PracticaEventos\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\mauga\Dropbox\2023\.NET\4 -  Eventos\PracticaEventos\Domain\obj\Debug\Domain.exe
+C:\Users\mauga\Dropbox\2023\.NET\4 -  Eventos\PracticaEventos\Domain\obj\Debug\Domain.pdb
