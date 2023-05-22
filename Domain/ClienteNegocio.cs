@@ -12,9 +12,9 @@ namespace Domain
         {
             List<Cliente> lista = new List<Cliente>();
 
-            Cliente cliente1 = new Cliente(1, "Mauro", "Gallo", 20, "Argentina", "Masculino", false, DateTime.Now);
+            Cliente cliente1 = new Cliente(1, "Facundo", "Hernandez", 20, "Argentina", "Masculino", false, DateTime.Now);
             lista.Add(cliente1);
-            Cliente cliente2 = new Cliente(2, "Agustina", "Casañas", 25, "Argentina", "Femenino", true, DateTime.Now);
+            Cliente cliente2 = new Cliente(2, "Agustina", "Rodriguez", 25, "Argentina", "Femenino", true, DateTime.Now);
             lista.Add(cliente2);
 
             return lista;
